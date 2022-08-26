@@ -1,0 +1,142 @@
+.App {
+  text-align: center;
+  color: rgb(15, 15, 15);
+}
+
+
+
+.App-header {
+  display: block;
+ 
+  
+}
+
+
+.header {
+
+  min-height: 50vh;
+  display:inline-flex;
+ 
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(8, 8, 8);
+  margin-top: 0px;
+  
+}
+
+
+
+
+.btn{
+  height: 2rem;
+  width: 4rem;
+  color:wheat;
+  border-color: wheat;
+  border-radius: 0.6rem;
+  margin-left: 12rem;
+  margin-top:1.5rem;
+}
+.task{
+  margin-right: 15rem;
+  margin-top: -12rem;
+  
+}
+.edit{
+  background-color: rgb(3, 3, 3);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  justify-content: center;
+  
+}
+
+.formz{
+ margin-top: -20px;
+  background-color: rgb(9, 9, 87);
+  color: white;
+  height: 100vh;
+}
+.iformz{
+  padding-top: 4rem;
+  background-color: white;
+  border-radius: .4rem;
+  color: #000000;
+  width: 200px;
+  align-items: center;
+  margin-left: 30rem;
+  height: 20rem;
+  width: 20rem;
+}
+
+.btn{
+  color:rgb(9, 9, 87);
+  background-color: white;
+  margin-right:14rem;
+}
+
+.ilabel{
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 1.5rem;
+  color:rgb(7, 0, 0);
+  margin-right: 8rem;
+  
+}
+.in{
+  height: 30px;
+  width: 10rem;
+}
+#row{
+  margin-left: 150px;
+}
+#Auth{
+  font-size: 30px;
+  border-style: groove;
+  border-color:rgb(88, 88, 197);
+  border-width: .3px;
+  padding: 20px;
+  margin-left: -90px;
+  width: 400px;
+  height: 340px;
+}
+#img{
+  width: 400px;
+}
+#in{
+  width: 200px;
+}
+.label{
+  margin-right: 40rem;
+  margin-bottom: 10px;
+}
+#btx{
+  margin-right: 80rem;
+  width: 4.5rem;
+  margin-top:10px;
+  font-size:15px;
+  border-color: rgb(167, 204, 204);
+  background-color: rgb(39, 39, 172);
+  color: azure;
+  border-radius:5px ;
+  height:2.3rem;
+
+}
+#btx:hover{
+  color: rgb(39, 39, 172) ;
+  background-color: white;
+  border-color: aqua;
+  border-radius:8px;
+
+}
+.tst{
+  width: 200px;
+  font-size: 10px;
+  font-style: italic;
+  text-align: justify;
+  margin-top: .8rem;
+}
+.bg{
+  background-color: #000000 !important;
+}
